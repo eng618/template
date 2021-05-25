@@ -1,6 +1,6 @@
 .env
 
-# The following is an exaustive list of standard things to ignore for the following project types
+# The following is an exhaustive list of standard things to ignore for the following project types
 # osx, linux, go, react
 
 # Created by https://www.toptal.com/developers/gitignore/api/osx,linux,go,react

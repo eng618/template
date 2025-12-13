@@ -27,3 +27,9 @@ updates:
   #   directory: "/"
   #   schedule:
   #     interval: "monthly"
+
+  # Enable version updates for Dart
+  # - package-ecosystem: "pub"
+  #   directory: "/"
+  #   schedule:
+  #     interval: "monthly"

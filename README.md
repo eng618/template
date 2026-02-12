@@ -2,6 +2,8 @@
 
 A base template for creating new GitHub Repos
 
+[![Buy Me A Coffee](https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png)](https://www.buymeacoffee.com/eng618)
+
 ## Overview
 
 This is a template repository designed to provide a solid foundation for new GitHub projects. It includes standard documentation structure, branching guidelines, security policies, and GitHub configuration files.
@@ -18,10 +20,12 @@ Comprehensive documentation is available in the [`docs`](docs/) directory:
 
 1. **Use this template** - Click the "Use this template" button at the top of the repository
 2. **Clone your new repository**
+
    ```bash
    git clone https://github.com/YOUR-USERNAME/your-new-repo.git
    cd your-new-repo
    ```
+
 3. **Read the documentation** - Check out the [docs](docs/) directory to understand the project structure and workflow
 
 ## Branching Model
